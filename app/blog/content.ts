@@ -1,5 +1,5 @@
 export type Post = { slug: string; keyword: string; title: string; category: string; summary: string; points: string[] };
-const rows: [string,string,string,string,string][] = [
+const rows: [string,string,string,string,string,string][] = [
 ["go-to-market-strategy","go-to-market strategy","What Is a Go-to-Market Strategy? A Practical Beginner’s Guide","GTM","A practical guide to ICP, message, channel, offer, and measurement.","ICP|message|channel|offer|measurement"],
 ["gtm-strategy-template","GTM strategy template","A Simple Go-to-Market Strategy Template for Early-Stage Teams","GTM","A fill-in template for audience, problem, message, channel, and metric.","audience|problem|message|channel|metric"],
 ["ideal-customer-profile","ideal customer profile","How to Build an Ideal Customer Profile Before You Start Outreach","GTM","Define firmographics, pains, signals, and exclusions before prospecting.","firmographics|pains|signals|exclusions"],
